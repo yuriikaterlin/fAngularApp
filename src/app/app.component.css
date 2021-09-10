@@ -14,14 +14,10 @@ mat-sidenav {
 }
 
 .content {
-  height: calc(100vh - 95px);
   margin: 15px;
   margin-left: 30px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-size: 2rem;
-  color: lightgray;
+  padding-left: 110px;
+  padding-right: 110px;
   border-radius: 10px;
 }
 
@@ -40,11 +36,6 @@ mat-sidenav-container {
 .mat-icon {
   margin-right: 8px;
 }
-
-
-
-
-
 
 .avatar {
   margin-top: 16px;

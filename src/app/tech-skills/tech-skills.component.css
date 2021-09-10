@@ -1,0 +1,27 @@
+.experience-skill {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.experience-dots {
+  display: flex;
+  align-items: center;
+  margin-right: 15px;
+}
+
+.material-icons {
+  font-size: 11px;
+}
+
+.experience-text {
+  margin: 0 0 0 10px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 19px;
+}
+
+.experience-dots-item-accent {
+  color: #dd5f0c;
+}
